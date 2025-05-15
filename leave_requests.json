@@ -1,0 +1,9 @@
+{
+    "mihir": {
+        "type": "sick",
+        "date": "2025-5-20",
+        "duration": 6,
+        "reason": "fever",
+        "status": "Approved"
+    }
+}

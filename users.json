@@ -1,0 +1,51 @@
+{
+    "vedant": {
+        "role": "hod",
+        "password": "1234",
+        "name": "vedant Ananda pawar",
+        "dob": "2025-12-12",
+        "age": -1,
+        "address": {
+            "post": "pargoan",
+            "taluka": "ka",
+            "district": "ds",
+            "pin": "sd"
+        },
+        "qualification": "s",
+        "dept": "cse",
+        "doj": "2025-12-12"
+    },
+    "mihir": {
+        "role": "teacher",
+        "password": "1234",
+        "name": "mihit Ajit mahajan",
+        "dob": "2025-12-12",
+        "age": "20",
+        "address": {
+            "post": "shirala",
+            "tal": "s",
+            "dist": "s",
+            "pin": "s"
+        },
+        "qualification": "s",
+        "dept": "cse",
+        "doj": "2024-12-12",
+        "subjects": "ds"
+    },
+    "om": {
+        "role": "hod",
+        "password": "1234",
+        "name": "om umesh shinde",
+        "dob": "2025-12-12",
+        "age": -1,
+        "address": {
+            "post": "sdf",
+            "taluka": "sdf",
+            "district": "sdf",
+            "pin": "212112"
+        },
+        "qualification": "dsf",
+        "dept": "mech",
+        "doj": "2025-12-12"
+    }
+}
